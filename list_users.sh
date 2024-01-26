@@ -7,6 +7,18 @@
 # in organizational level
 ##############
 
+
+###########
+# Two prereq for this script to execute 
+# 1. export username="username"
+# 2. export token=""
+############
+
+############
+# To execute script
+# ./filename.sh organization_name repo_name
+############
+
 helper()
 
 # GitHub API URL
